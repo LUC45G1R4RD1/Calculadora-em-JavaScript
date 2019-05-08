@@ -13,3 +13,5 @@ Calculadora Completa.
 #.developer goodz
 
 fundo alterado com sucesso . animação feita em lottie
+
+nova alteração em breve
