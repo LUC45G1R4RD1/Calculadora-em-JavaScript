@@ -6,7 +6,7 @@ Calculadora Completa.
 
 
 ### Projeto
-![Calculadora](https://drive.google.com/open?id=1YbKY9dELpFuS7YsU1xzsCAX1m2qitQ2Q)
+![Calculadora](https://ap.imagensbrasil.org/images/2019/05/08/Screenshot_2019-05-08-Calculadora-Hcode.png)
 
 ## topicos de alteração
 
