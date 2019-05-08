@@ -15,3 +15,5 @@ Calculadora Completa.
 fundo alterado com sucesso . animação feita em lottie
 
 nova alteração em breve
+
+goodzlife
